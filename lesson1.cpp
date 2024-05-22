@@ -1,3 +1,7 @@
+/*
+    First lesson, printing hello world. Cout uses the DEBUG CONSOLE.
+*/
+
 #include <iostream>
 
 using namespace std;
